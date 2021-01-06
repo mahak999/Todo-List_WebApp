@@ -19,5 +19,5 @@ Use the command: python manage.py runserver
 <br/>
 ### Step-7: Obtain the link and put "/todo" at the end of it and then run it in the browser to run the WebApp
 
-# Additional Reasources
+# Additional Resources
 I used this [blog](https://medium.com/fbdevclagos/how-to-build-a-todo-app-with-django-17afdc4a8f8c) to understand how to create a Webapp using Django.
